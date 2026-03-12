@@ -20,3 +20,7 @@ grow_vertical = 2
 layout_mode = 2
 text = "Enable drawing mode"
 alignment = 2
+
+[node name="ExportButton" type="Button" parent="VBoxContainer" unique_id=269839839]
+layout_mode = 2
+text = "Export level as JSON"
